@@ -135,7 +135,7 @@
   "STATUS_COMMAND": {
     "description":"status".
     "required": false
-   },
+   }
   },
   "stack": "container"
 }
